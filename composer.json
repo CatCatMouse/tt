@@ -1,11 +1,11 @@
 {
-    "name": "cc/tt",
+    "name": "cat-cat-mouse/tt",
     "description": "test",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Cc\\Tt\\": "src/"
+            "CatCatMouse\\Tt\\": "src/"
         }
     },
     "authors": [

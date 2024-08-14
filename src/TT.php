@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Cc\Tt;
+namespace CatCatMouse\Tt;
 
 
 class TT
