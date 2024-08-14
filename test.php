@@ -6,3 +6,4 @@ use CatCatMouse\Tt\TT;
 $tt = TT::make();
 
 $tt->hello();
+$tt->desc();

@@ -15,4 +15,9 @@ class TT
         echo "hello world!\n";
     }
 
+    public function desc()
+    {
+        echo "this is just a test package!";
+    }
+
 }
